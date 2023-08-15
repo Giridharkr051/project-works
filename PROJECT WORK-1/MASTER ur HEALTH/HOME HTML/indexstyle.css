@@ -1,0 +1,47 @@
+.image1{
+  background-image: url(https://www.dreamincode.net/forums/uploads/monthly_04_2014/post-638814-139809061379.png);
+  height: 250px;
+}
+.top1{
+padding-top: 50px;
+color: whitesmoke;
+font-family: "papyrus",fantasy;
+frontsize: 1000px;
+
+text-align: center;
+}
+
+
+.headernavul{
+list-style-type:none ;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #444;
+text-align: center;
+}
+
+
+.headernavli{
+   width: 120px;
+  margin: 15px;
+  padding: 15px;
+  float: left;
+  font-family: segoe,"Segoe UI ","DejaVu sans","Trebuchet MS",Verdana,sans-serif;
+  font-size: 0.7em;
+  line-height: 40px;
+  height: 40px;
+  border-botton: 1px solid #393434;
+}
+.headernava{
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  text-transform:uppercase ;
+  padding: 4px;
+}
+
+.headernava:hover,a:active{
+  background-color: #009BFF;
+}
+
